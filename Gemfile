@@ -1,0 +1,5 @@
+source "https://rubygems.org"
+
+gem "rack", "~> 3.1"
+gem "puma"
+gem "rackup"
